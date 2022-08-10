@@ -38,9 +38,13 @@ Quizzes should be completed within the allotted time, 30 minutes.
 
 # Absences
 
+TBD
+
+<!--
 Attendance at lectures and labs is highly recommended but not required. If you need to miss them for any reason, you should watch the lecture recording online, complete any labs, and contact me with specific questions.
 
 If you need miss a presentation, discussion, or quiz, you should be excused. To be excused for illness or quarantine, you should contact student affairs. They will evaluate the situation and provide me with a recommendation about accommodating your circumstance. To be excused for sports, you should provide me with a note from your coach. If you are excused, we will discuss a way that you can make up for the absence.
+-->
 
 # Accounts
 
