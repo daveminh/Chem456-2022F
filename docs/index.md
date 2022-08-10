@@ -24,6 +24,12 @@ Upon completing this course, you should be able to:
 
 Organic chemistry (CHEM 237)
 
+# iCourse Pilot
+
+Chem 456 has been approved as iCourse. The iCourse pilot program allows for a project-based class to take the place of the IPRO graduation requirement. As the program is in the pilot stage, the procedure for obtaining IPRO credit is not automated.
+
+Students should submit requests for IPRO credits through a petition in Degreeworks. On a student's Degreeworks page, they need to click on the three-dot icon on the top right-hand side of the page. They will see "Petitions" in the drop-down menu and click on "Add a new petition". The petition will go into a queue for UGAA to review.
+
 # Class Format
 
 The class format will be hybrid synchronous. In addition to being in person, class session will be streamed live and also recorded on Zoom.
