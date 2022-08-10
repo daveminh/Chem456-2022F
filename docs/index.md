@@ -3,6 +3,10 @@ layout: default
 title: About
 ---
 
+<center>
+<img src="{{ "/_images/flyer.jpg" | prepend: site.baseurl }}" valign="middle">
+</center>
+
 # Course Description
 
 A project-based introduction to computer-aided drug design tools and the principles behind them. Structural alignment and homology modeling. Molecular docking and molecular mechanics force fields for binding enthalpies. Continuum dielectric models of electrostatics and solvation. The Boltzmann distribution and alchemical binding free energy calculations. Quantitative structure property relationships. Business, legal, and ethical considerations of drug development.

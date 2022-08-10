@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
-You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
+You can download the lectures and jupyter notebooks here (in keynote/PDF format). I plan to upload them prior to their corresponding classes.
 
 
 <ul id="archive">
@@ -21,9 +21,9 @@ You can download the lectures here (in PDF format). I will try to upload lecture
     <div class="content">
         <span><a href="
             {% if lecture.slides contains '://' %}
-              {{ lecture.slides }} 
+              {{ lecture.slides }}
             {% else %}
-              {{ lecture.slides | prepend: site.baseurl }} 
+              {{ lecture.slides | prepend: site.baseurl }}
             {% endif %}">{{ lecture.title }}</a></span><br>
 
         <strong>tl;dr:</strong> {{ lecture.tldr }}
