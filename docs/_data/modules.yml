@@ -1,0 +1,177 @@
+- day: M
+  date: 8/22
+  title: "Introduction and syllabus"
+  basename: 08-22-introduction
+  lab: "1: Introduction to Google Colab"
+  notebook: 01-google_colab
+
+- day: W
+  date: 8/24
+  title: "Fundamentals of biological macromolecules"
+  basename: 08-24-biological_macromolecules
+  lab: "2: Structural visualization with py3DMol"
+  notebook: 02-py3DMol
+
+- day: M
+  date: 8/29
+  title: "Structure determination"
+  description: "by X-ray crystallography, NMR, and CryoEM"
+  basename: 08-29-structure_determination
+  due: "Lab 1"
+
+- day: W
+  date: 8/31
+  title: "Structure prediction"
+  basename: 08-31-structure_prediction
+  lab: "3: AlphaFold"
+  notebook_TODO: 03-alphafold
+  due: "Lab 2"
+
+- day: M
+  date: 9/5
+  title: "<i>No class - Labor Day</i>"
+
+- day: W
+  date: 9/7
+  title: "Selecting a target"
+  description: "for structure-based molecular design. Scientific and market considerations"
+  basename: 09-07-target_selection
+  due: "Lab 3"
+  quiz: "Biomolecular structure"
+
+- day: M
+  date: 9/12
+  title: "Surveying the scientific literature."
+  description: "Academic literature databases. Reference management with Zotero"
+  basename: 09-12-scientific_literature
+
+- day: W
+  date: 9/14
+  title: "Pharmaceutical ethics."
+  basename: 09-14-ethics
+  description: "Access to medicines versus incentivizing research and development. Informed consent in clinical trials"
+
+- day: W
+  date: 9/19
+  title: "Electrostatics and solvation"
+  description: "by continuum dielectric models"
+  basename: 09-19-electrostatics
+  due: "Ethics discussion report"
+
+- day: W
+  date: 9/21
+  lab: "4: Visualizing protonation and electrostatics"
+  notebook: 04-electrostatics
+
+- day: M
+  date: 9/26
+  title: Biological target presentations.
+  due: Biological target presentation
+
+- day: W
+  date: 9/28
+  title: Biological target presentations.
+  due: Lab 4
+
+- day: M
+  date: 10/3
+  title: <i>No class - professor at conference</i>
+
+- day: W
+  date: 10/5
+  title: "Molecular docking."
+  description: "Scoring functions. Common optimization algorithms"
+  basename: 10-05-molecular_docking
+  lab: "5: Molecular docking with AutoDock Vina, <i>during lunch</i>"
+  notebook: 05-docking
+  due: "Biological target report"
+
+- day: M
+  date: 10/10
+  title: <i>No class - Fall break day</i>
+
+- day: W
+  date: 10/12
+  title: Molecular mechanics force fields.
+  description: "Bonded and nonbonded energy terms. Parameterization"
+  basename: 10-12-molecular_mechanics
+  due: "Lab 5"
+
+- day: M
+  date: 10/17
+  lab: "6: Preparing a system for molecular simulation"
+  notebook: 06-system_preparation
+
+- day: W
+  date: 10/19
+  title: Quantum mechanics/molecular mechanics (QM/MM)
+  basename: 10-19-qmmm
+
+- day: M
+  date: 10/24
+  lab: "7: QM/MM analysis of MPro catalysis"
+  notebook: 07-qmmm
+  due: "Lab 6"
+
+- day: W
+  date: 10/26
+  title: Molecular simulation.
+  description: "Markov chain Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats"
+  basename: 10-26-molecular_simulation
+  quiz: "Potential energy"
+
+- day: M
+  date: 10/31
+  lab: "8: Performing a molecular simulation with OpenMM"
+  notebook: 08-openmm
+  due: "Lab 7"
+
+- day: W
+  date: 11/2
+  title: Analysis of molecular simulation.
+  lab: "9: mdanalysis"
+  notebook: 09-mdanalysis
+  description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction."
+
+- day: M
+  date: 11/7
+  title: Simulating and analyzing thermodynamic processes.
+  description: "Thermodynamic processes. Umbrella sampling. Replica exchange. Statistical estimation of expectations and free energies"
+  basename: 11-07-thermodynamic_processes
+  due: "Lab 8"
+
+- day: W
+  date: 11/9
+  title: "Binding free energy calculations."
+  basename: 11-09-binding_free_energy_calculations
+  description: "Alchemical methods. Thermodynamic cycles."
+  due: "Lab 9"
+
+- day: M
+  date: 11/14
+  title: "Analysis of binding free energy calculations."
+  description: "Simulation quality metrics. Pose prediction."
+
+- day: W
+  date: 11/16
+  title: "Quantitative structure-property relationships."
+  description: "Structural features. Common properties. Machine learning methods."
+  quiz: "Molecular simulations"
+
+- day: M
+  date: 11/21
+  lab: "10: Machine learning"
+  notebook_TODO: 10-machine_learning
+
+- day: W
+  date: 11/23
+  title: "<i>No class - Thanksgiving break</i>"
+
+- day: M
+  date: 11/28
+  title: "Final presentations"
+  due: "Lab 10. Final presentation"
+
+- day: M
+  date: 11/30
+  title: "Final presentations"
