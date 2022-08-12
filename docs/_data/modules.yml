@@ -172,6 +172,14 @@
   title: "Final presentations"
   due: "Lab 10. Final presentation"
 
-- day: M
+- day: W
   date: 11/30
   title: "Final presentations"
+
+- day: F
+  date: 12/2
+  title: "Innovation Day"
+
+- day: F
+  date: 12/9
+  due: "Final reports"

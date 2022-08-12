@@ -9,6 +9,29 @@ TBA
 <!--
 ### Individual
 
+
+More specifically, you will,
+Find at least 5 scientific journal articles related to the target
+Perform structural analysis and visualization
+Perform at least one of the following: homology modeling, structural alignment, or electrostatics calculations.
+
+The presentation should be for 15 minutes, including 5 minutes for audience questions. You should address the following questions:
+Why is your target interesting?
+What are some important results that have been reported about your target?
+How do you know that it is suitable for structure-based molecular design?
+What are the business prospects of a molecule that interacts with the target?
+The presentation should cite some of the articles/patents found during a database/literature search. Citations should be numbered/named on individual slides and an ACS-style bibliography included at the end. The presentation should also include results from at least one of the calculations. For example, a structural alignment could be used to assess the similarity between the binding site of bacterial and human homologues.
+
+The presentation muevaluated according to the following rubric
+Does the presentation address
+(1) disease relevance, e.g. mechanistic rationale or mutations?
+(2) structural properties, e.g structural resolution and druggability?
+Were structural alignment, electrostatics, or structural prediction calculations included?
+Was the presentation clear and concise?
+Were references properly cited?
+
+The biological target report should be a written form of the presentation. It should be at least 3 pages.
+
 * **Biological Target Presentation File**. All students will give a short presentation (8 minutes) about the scientific and business prospects of developing a ligand for a biological target of their own choice.
 
 In the presentation, students should address the criterion discussed in class on 1/16. The presentation should cite some of the articles/patents found during a database/literature search, as discussed on 1/16, 1/21, and 1/23. Citations should be numbered/named on individual slides and an ACS-style bibliography included at the end. The presentation should also include results from at least one of the calculations discussed on 1/28 and 1/30 - structural alignment, electrostatics calculations, or homology modeling - for the biological target. For example, a structural alignment could be used to assess the similarity between the binding site of bacterial and human homologues. I-TASSER could be used to generate a model. The presentation could include information about the level of confidence in the model.
