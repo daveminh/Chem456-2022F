@@ -9,8 +9,8 @@
   date: 8/24
   title: "Fundamentals of biological macromolecules"
   basename: 08-24-biological_macromolecules
-  lab: "2: Structural visualization with py3DMol"
-  notebook: 02-py3DMol
+  lab: "2: Structural visualization and alignment"
+  notebook: 02-structural_visualization
 
 - day: M
   date: 8/29
