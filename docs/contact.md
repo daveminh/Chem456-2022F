@@ -18,4 +18,4 @@ Monday and Wednesday, 11:25am-12:40pm, Stuart Building 112F
 
 # Office Hours
 
-By appointment. To set up an appointment, first check [my availability calendar](https://calendar.google.com/calendar/embed?src=daveminh@gmail.com&ctz=America/Chicago) and then [send me an email](mailto:david.minh@iit.edu) to propose _a few times_ that work for you.
+Monday, 10am-11am, or by appointment. To set up an appointment, first check [my availability calendar](https://calendar.google.com/calendar/embed?src=daveminh@gmail.com&ctz=America/Chicago) and then [send me an email](mailto:david.minh@iit.edu) to propose _a few times_ that work for you.

@@ -11,7 +11,7 @@ Instead of a traditional point-based system, we will use specifications grading.
 | <i>Individual</i>
 | Ethics discussion summary	| 1 paragraph  | 1 paragraph | 1 page | 2+ pages |
 | Biological target presentation | | X | X | X |
-| Biological target report | X | X | X | X |
+| Biological target report |  |  | X | X |
 | Individual contribution to final project	| Minor contribution, no report	| Minor contribution | Major contribution  |  Vital contribution |
 | Quizzes | 2 | 2 | 3 | 3  |
 | Labs | 5 | 6 | 7 | 8 |
