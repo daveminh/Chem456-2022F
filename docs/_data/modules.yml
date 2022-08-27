@@ -2,6 +2,7 @@
   date: 8/22
   title: "Introduction and syllabus"
   basename: 08-22-introduction
+  slides: ppt
   lab: "1: Introduction to Google Colab"
   notebook: 01-google_colab
 
@@ -9,6 +10,7 @@
   date: 8/24
   title: "Fundamentals of biological macromolecules"
   basename: 08-24-biological_macromolecules
+  slides: ppt
   lab: "2: Structural visualization and alignment"
   notebook: 02-structural_visualization
 
@@ -17,6 +19,7 @@
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM"
   basename: 08-29-structure_determination
+  slides: ppt
   due: "Lab 1"
 
 - day: W
