@@ -26,8 +26,9 @@
   date: 8/31
   title: "Structure prediction"
   basename: 08-31-structure_prediction
-  lab: "3: AlphaFold"
-  notebook_TODO: 03-alphafold
+  slides: ppt
+  lab: "3: Modeling Cytochrome P450 structure with ColabFold"
+  notebook: 03-colab_fold
   due: "Lab 2"
 
 - day: M
