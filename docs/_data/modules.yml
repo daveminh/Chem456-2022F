@@ -40,7 +40,7 @@
   title: "Selecting a target"
   description: "for structure-based molecular design. Scientific and market considerations"
   basename: 09-07-target_selection
-  due: "Lab 3"
+  slides: ppt
   quiz: "Biomolecular structure"
 
 - day: M
@@ -48,6 +48,7 @@
   title: "Surveying the scientific literature."
   description: "Academic literature databases. Reference management with Zotero"
   basename: 09-12-scientific_literature
+  due: "Lab 3"
 
 - day: W
   date: 9/14
