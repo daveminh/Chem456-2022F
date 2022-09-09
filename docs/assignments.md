@@ -35,7 +35,7 @@ The presentation should be 12 minutes long, followed by 3 minutes for questions.
 
 As a visual aid to your presentation, you should prepare a series of slides that present evidence for your answers based on your own work as well as data and figures from other sources. For example, you could perform a structural alignment between the binding site of the bacterial and human homologue of your target to highlight structural differences. This may provide evidence that a ligand that binds to the bacterial site is unlikely to also bind to the human site, or vice versa. (You may also present some calculations that do not directly address the questions.) Data and figures from other sources should be properly cited. Citations should be numbered/named on individual slides and an [ACS-style bibliography](https://pubs.acs.org/doi/full/10.1021/acsguide.40303) included at the end of the slide slow. The slide show should be in Apple Keynote (.key), Microsoft Powerpoint (.ppt/,pptx), Google Slides (.gslides), or Portable Document Format (.pdf) format.
 
-Before the first student presents, your slides should be saved in your class folder as `BiologicalTargetPresentation.XXX`, where `XXX` is the file extension. To expedite transitions between presentations, students will all present using the instructor's laptop.
+Before the first student presents, your slides should be saved in a folder within your class folder as `BiologicalTarget/BiologicalTargetPresentation.XXX`, where `XXX` is the file extension. To expedite transitions between presentations, students will all present using the instructor's laptop.
 
 A satisfactory presentation will
 * address all of the questions with sufficient evidence for the answers,
@@ -47,7 +47,7 @@ A satisfactory presentation will
 
 The report is a written version of the presentation. You should address the same questions and present evidence in the text and in figures and tables. The report should be at least three pages long and saved as a document in Apple Pages (.pages), Microsoft Word (.doc/.docx), Google Document (.gdoc), or Portable Document Format (.pdf) format.
 
-Before 11:25am on the due date, your report should be saved in your class folder as `BiologicalTargetReport.XXX`, where `XXX` is the file extension.
+Before 11:25am on the due date, your report should be saved in a folder within your class folder as `BiologicalTarget/BiologicalTargetReport.XXX`, where `XXX` is the file extension.
 
 A satisfactory report will meet the same criterion as the presentation except for the last. Instead, the report should be clearly written with proper English spelling and grammar.
 
