@@ -21,6 +21,7 @@ The research project includes the following steps:
 Some targets that you may find interesting are:
 * µ-opioid receptor (which Bing is studying)
 * BaxΔ2 (which Ricky is studying)
+* Cytochrome P450s from Western Corn Rootworm (which Nick is studying)
 * Tyrosyl-DNA phosphodiesterase 1 (TDP1), a possible cancer drug target
 
 ## Presentation

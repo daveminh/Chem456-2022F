@@ -41,14 +41,15 @@
   description: "for structure-based molecular design. Scientific and market considerations"
   basename: 09-07-target_selection
   slides: ppt
-  quiz: "Biomolecular structure"
 
 - day: M
   date: 9/12
   title: "Surveying the scientific literature."
   description: "Academic literature databases. Reference management with Zotero"
   basename: 09-12-scientific_literature
+  slides: ppt
   due: "Lab 3"
+  quiz: "Biomolecular structure"
 
 - day: W
   date: 9/14
