@@ -11,7 +11,7 @@ To earn a C or higher, you must complete a small research project and give a sat
 ## Project
 
 The research project includes the following steps:
-* Search for and select a personal target to do further research on. The target or a close homolog must have a public crystal structure in the Protein Data Bank (https://www.rcsb.org). After making sure that nobody has selected the same target, enter your name and target in the Google spreadsheet (https://docs.google.com/spreadsheets/d/1OaIWLxFEssCu1uGx48hzlsdZ1-NZ3HeEpdHoZPzM1S8/edit?usp=sharing).
+* Search for and select a personal target to do further research on. The target or a close homolog must have a public crystal structure in the Protein Data Bank (https://www.rcsb.org). After making sure that nobody has selected the same target, enter your name and target in the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1OaIWLxFEssCu1uGx48hzlsdZ1-NZ3HeEpdHoZPzM1S8/edit?usp=sharing).
 * Download and at least partially read at least five references related to your target.
 * Perform structural analysis and visualization and at least two of the following:
     * homology modeling,
