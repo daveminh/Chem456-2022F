@@ -57,17 +57,17 @@
   basename: 09-14-ethics
   description: "Access to medicines versus incentivizing research and development. Informed consent in clinical trials"
 
-- day: W
+- day: M
   date: 9/19
   title: "Electrostatics and solvation"
   description: "by continuum dielectric models"
   basename: 09-19-electrostatics
-  due: "Ethics discussion report"
 
 - day: W
   date: 9/21
   lab: "4: Visualizing protonation and electrostatics"
   notebook: 04-electrostatics
+  due: "Ethics discussion report"
 
 - day: M
   date: 9/26
