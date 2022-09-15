@@ -54,11 +54,11 @@ A satisfactory report will meet the same criterion as the presentation except fo
 
 # Pharmaceutical Ethics Report
 
-To earn a C or higher, you must write a satisfactory summary of the discussion related to pharmaceutical ethics. The length of the summary will depend on the grade that you are trying to earn. To be satisfactory, the summary must cover key points from the discussion and be clearly written with proper English spelling and grammar.
+To earn a C or higher, you must write a satisfactory summary of the discussion related to pharmaceutical ethics. As described the syllabus, the length of the summary will depend on the grade that you are trying to earn. To be satisfactory, the summary must cover key points from the discussion and be clearly written with proper English spelling and grammar.
+
+The report should be saved as a document in Apple Pages (.pages), Microsoft Word (.doc/.docx), Google Document (.gdoc), or Portable Document Format (.pdf) format. Before 11:25am on the due date, your report should be saved in your class folder as `PharmaceuticalEthicsReport.XXX`, where `XXX` is the file extension.
 
 <!--
-
-
 
 * **Individual Contribution Reports Survey**. All students will write two brief reports that describe their contribution to the project since the previous report. The reports will be filed as answers to an online survey. The reports will be assessed based on clarity, completeness, and credibility. They will be an important factor in the individual grade.
 
