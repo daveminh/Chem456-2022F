@@ -14,7 +14,7 @@ Instead of a traditional point-based system, we will use specifications grading.
 | Biological target report |  |  | X | X |
 | Individual contribution to final project	| Minor contribution, no report	| Minor contribution | Major contribution  |  Vital contribution |
 | Quizzes | 2 | 2 | 3 | 3  |
-| Labs | 5 | 6 | 7 | 8 |
+| Exercises | 5 | 6 | 7 | 8 |
 | Participation | 4 | 6 | 8 | 10 |
 | <i>Team</i>
 | Final presentation | Complete | Complete | Clear scientific contribution | Conference quality |
@@ -31,7 +31,7 @@ You will also write an individual contribution report describing how you contrib
 
 Quizzes will be during the first 30 minutes of class. A satisfactory grade is 75%.
 
-Labs will be due a week after the class session in which they are introduced. Labs should be completely correct. A satisfactory grade will be based on correct answers for a subset of questions, which may or may not be announced beforehand.
+Exercises will be due a week after the class session in which they are introduced. Exercises should be completely correct. A satisfactory grade will be based on correct answers for a subset of questions, which may or may not be announced beforehand.
 
 Participation points will be awarded for contributing to the ethics discussion (1 point) or asking questions during presentations (1 point each and up to 2 per day) as well as summarizing your contributions. I will also award participation points during classes for answering my questions, helping a classmate with their questions, or doing well in a kahoot! quiz.
 
@@ -39,7 +39,7 @@ Participation points will be awarded for contributing to the ethics discussion (
 
 At the beginning of class, you will have 5 tokens.
 
-Tokens may be used to revise an unsatisfactory assignment, submit an assignment late, or for participation points. Costs depend on the assignment. The ethics discussion summary and labs cost 1 token to revise and 1 token to submit up to one week late. The biological target presentation, report, and quizzes cost 2 tokens to revise. The report costs 1 token to submit up to one week late. Revising the presentation means giving me at least a partial presentation.
+Tokens may be used to revise an unsatisfactory assignment, submit an assignment late, or for participation points. Costs depend on the assignment. The ethics discussion summary and exercises cost 1 token to revise and 1 token to submit up to one week late. The biological target presentation, report, and quizzes cost 2 tokens to revise. The report costs 1 token to submit up to one week late. Revising the presentation means giving me at least a partial presentation.
 
 Revising a quiz means writing satisfactory new questions and answers comparable to the questions that you missed and letting me use them in the future. Each question should be:
 * similar to a question that you answer correctly.

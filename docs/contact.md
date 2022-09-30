@@ -8,7 +8,7 @@ permalink: /contact/
 
 Dr. David Minh (call me “Professor”, “Professor Minh”, or “Dr. Minh”) \\
  Email (preferred method of contact): <david.minh@iit.edu> \\
-Office: Pritzker Science Center 234 [Directions](http://mypages.iit.edu/~dminh/Computational_Chemical_Biology/Visit.html) \\
+Office: [Pritzker Science Center 234](http://mypages.iit.edu/~dminh/Computational_Chemical_Biology/Visit.html) \\
 Office phone: (312) 567-3411  \\
 [Research group web page](mypages.iit.edu/~dminh/)
 

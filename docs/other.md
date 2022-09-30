@@ -12,4 +12,4 @@ Quizzes must be completed individually. Seating may be assigned during quizzes. 
 
 # Disabilities
 
-Reasonable accommodations will be made for students with documented disabilities. In order to receive accommodations, students must obtain a letter of accommodation from the Center for Disability Resources. The Center for Disability Resources (CDR) is located in 3424 S. State St., room 1C3-2 (on the first floor), telephone (312) 567-5744 or disabilities@iit.edu.
+Reasonable accommodations will be made for students with documented disabilities. In order to receive accommodations, students must obtain a letter of accommodation from the Center for Disability Resources. The Center for Disability Resources (CDR) is located in 3424 S. State St., room 1C3-2 (on the first floor), telephone (312) 567-5744 or <disabilities@iit.edu>.

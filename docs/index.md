@@ -53,11 +53,11 @@ Students should submit requests for IPRO credits through a petition in Degreewor
 
 The class format will be hybrid synchronous. In addition to being in person, class session will be streamed live and also recorded on Zoom.
 
-Classes will include lectures, labs, presentations, a discussion, and quizzes.
+Classes will include lectures, exercises, presentations, a discussion, and quizzes.
 
 Feel free to raise your hand and ask questions at any time during lecture. Chances are that if you have a question, somebody else will have the same one. At times, I will also ask you questions.
 
-Most labs will use Google Colab, which allows you to run computer code, view figures, annotate your results, and save data onto Google Drive, all within a web browser. The labs run on the classroom computers and will mostly likely work on your personal computer. If you do not complete a lab during class, you are expected to finish it for homework. For some longer calculations later in the semester, you will use ACCESS supercomputing resources.
+Most exercises will use Google Colab, which allows you to run computer code, view figures, annotate your results, and save data onto Google Drive, all within a web browser. The exercises run on the classroom computers and will mostly likely work on your personal computer. If you do not complete a exercise during class, you are expected to finish it for homework. For some longer calculations later in the semester, you will use ACCESS supercomputing resources.
 
 Some class sessions will feature student presentations about projects. Presentations should make use of prepared slides. You should upload the slides as Powerpoint, Keynote, or PDF document to a folder on Google Drive before class and control them using my computer. Using my computer will make transitions between presenters more seamless. Presenters are expected to be able to present simultaneously in a classroom and via Zoom videoconference. Attendees are expected to be active participants by asking questions and contributing ideas. Both presenters and attendees may use extemporaneous drawings on whiteboards to illustrate thoughts as necessary. Presentations will be recorded on Zoom for members of the class to review.
 
@@ -67,7 +67,7 @@ Quizzes should be completed within the allotted time, 30 minutes.
 
 # Absences
 
-Attendance at lectures and labs is highly recommended but not required. If you need to miss them for any reason, you should watch the lecture recording online, complete any labs, and contact me with specific questions.
+Attendance at lectures and exercises is highly recommended but not required. If you need to miss them for any reason, you should watch the lecture recording online, complete any exercises, and contact me with specific questions.
 
 If you need miss a presentation, discussion, or quiz, you should be excused. To be excused for illness or quarantine, you should contact student affairs. They will evaluate the situation and provide me with a recommendation about accommodating your circumstance. To be excused for sports, you should provide me with a note from your coach. If you are excused, we will discuss a way that you can make up for the absence.
 

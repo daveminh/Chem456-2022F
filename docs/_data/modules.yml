@@ -2,16 +2,14 @@
   date: 8/22
   title: "Introduction and syllabus"
   basename: 08-22-introduction
-  slides: ppt
-  lab: "1: Introduction to Google Colab"
+  exercise: "1: Introduction to Google Colab"
   notebook: 01-google_colab
 
 - day: W
   date: 8/24
   title: "Fundamentals of biological macromolecules"
   basename: 08-24-biological_macromolecules
-  slides: ppt
-  lab: "2: Structural visualization and alignment"
+  exercise: "2: Structural visualization and alignment"
   notebook: 02-structural_visualization
 
 - day: M
@@ -19,17 +17,15 @@
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM"
   basename: 08-29-structure_determination
-  slides: ppt
-  due: "Lab 1"
+  due: "Exercise 1"
 
 - day: W
   date: 8/31
   title: "Structure prediction"
   basename: 08-31-structure_prediction
-  slides: ppt
-  lab: "3: Modeling Cytochrome P450 structure with ColabFold"
+  exercise: "3: Modeling Cytochrome P450 structure with ColabFold"
   notebook: 03-colab_fold
-  due: "Lab 2"
+  due: "Exercise 2"
 
 - day: M
   date: 9/5
@@ -40,15 +36,13 @@
   title: "Selecting a target"
   description: "for structure-based molecular design. Scientific and market considerations"
   basename: 09-07-target_selection
-  slides: ppt
 
 - day: M
   date: 9/12
   title: "Surveying the scientific literature."
   description: "Academic literature databases. Reference management with Zotero"
   basename: 09-12-scientific_literature
-  slides: ppt
-  due: "Lab 3"
+  due: "Exercise 3"
   quiz: "Biomolecular structure"
 
 - day: W
@@ -65,7 +59,7 @@
 
 - day: W
   date: 9/21
-  lab: "4: Visualizing protonation and electrostatics"
+  exercise: "4: Visualizing protonation and electrostatics"
   notebook: 04-electrostatics
   due: "Ethics discussion report"
 
@@ -77,7 +71,7 @@
 - day: W
   date: 9/28
   title: Biological target presentations.
-  due: Lab 4
+  due: Exercise 4
 
 - day: M
   date: 10/3
@@ -88,7 +82,7 @@
   title: "Molecular docking."
   description: "Scoring functions. Common optimization algorithms"
   basename: 10-05-molecular_docking
-  lab: "5: Molecular docking with AutoDock Vina, <i>during lunch</i>"
+  exercise: "5: Molecular docking with AutoDock Vina, <i>during lunch</i>"
   notebook: 05-docking
   due: "Biological target report"
 
@@ -101,11 +95,11 @@
   title: Molecular mechanics force fields.
   description: "Bonded and nonbonded energy terms. Parameterization"
   basename: 10-12-molecular_mechanics
-  due: "Lab 5"
+  due: "Exercise 5"
 
 - day: M
   date: 10/17
-  lab: "6: Preparing a system for molecular simulation"
+  exercise: "6: Preparing a system for molecular simulation"
   notebook: 06-system_preparation
 
 - day: W
@@ -115,9 +109,9 @@
 
 - day: M
   date: 10/24
-  lab: "7: QM/MM analysis of MPro catalysis"
+  exercise: "7: QM/MM analysis of MPro catalysis"
   notebook: 07-qmmm
-  due: "Lab 6"
+  due: "Exercise 6"
 
 - day: W
   date: 10/26
@@ -128,14 +122,14 @@
 
 - day: M
   date: 10/31
-  lab: "8: Performing a molecular simulation with OpenMM"
+  exercise: "8: Performing a molecular simulation with OpenMM"
   notebook: 08-openmm
-  due: "Lab 7"
+  due: "Exercise 7"
 
 - day: W
   date: 11/2
   title: Analysis of molecular simulation.
-  lab: "9: mdanalysis"
+  exercise: "9: mdanalysis"
   notebook: 09-mdanalysis
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction."
 
@@ -144,14 +138,14 @@
   title: Simulating and analyzing thermodynamic processes.
   description: "Thermodynamic processes. Umbrella sampling. Replica exchange. Statistical estimation of expectations and free energies"
   basename: 11-07-thermodynamic_processes
-  due: "Lab 8"
+  due: "Exercise 8"
 
 - day: W
   date: 11/9
   title: "Binding free energy calculations."
   basename: 11-09-binding_free_energy_calculations
   description: "Alchemical methods. Thermodynamic cycles."
-  due: "Lab 9"
+  due: "Exercise 9"
 
 - day: M
   date: 11/14
@@ -166,7 +160,7 @@
 
 - day: M
   date: 11/21
-  lab: "10: Machine learning"
+  exercise: "10: Machine learning"
   notebook_TODO: 10-machine_learning
 
 - day: W
@@ -176,7 +170,7 @@
 - day: M
   date: 11/28
   title: "Final presentations"
-  due: "Lab 10. Final presentation"
+  due: "Exercise 10. Final presentation"
 
 - day: W
   date: 11/30

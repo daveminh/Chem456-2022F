@@ -14,6 +14,6 @@ Materials from this class were adapted from previous versions of the class and o
 
 # Sources
 
-In the Spring 2022 workshop, laboratories were adapted from
+In the Spring 2022 workshop, exercises were adapted from
 * [IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile, and
 * [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd)
