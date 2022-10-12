@@ -96,18 +96,13 @@ TBA
 
 ## Report
 
-Your final report should capture the team's project work in the format of a scientific journal. Unless otherwise approved, the document should be prepared for submission to the Journal of Chemical Information and Modelling according to [the journal's author guidelines](https://pubs.acs.org/page/jcisd8/submission/authors.html). If there is a clear scientific contribution, the team may be encouraged to submit the paper for publication.
+The final report should capture the team's project work in the format of a scientific journal. Fortunately, the sections of the presentation reflect this format; as with the Biological Target presentation and report, the report is a written version of the presentation. You should address the same questions and present evidence in the text and in figures and tables. Unless approved for another journal, the document should be prepared for submission to the Journal of Chemical Information and Modelling according to [the journal's author guidelines](https://pubs.acs.org/page/jcisd8/submission/authors.html). It should be saved as a document suitable for submission to the journal. If there is a clear scientific contribution, the team may be encouraged to actually submit the paper for publication.
 
-<!--
-The report is a written version of the presentation. You should address the same questions and present evidence in the text and in figures and tables. The report should be at least three pages long and saved as a document in Apple Pages (.pages), Microsoft Word (.doc/.docx), Google Document (.gdoc), or Portable Document Format (.pdf) format.
-
-Before 11:25am on the due date, your report should be saved in a folder within your class folder as `BiologicalTarget/BiologicalTargetReport.XXX`, where `XXX` is the file extension.
+Before 11:25am on the due date, your report should be saved in a folder within your class folder as `FinalProject/FinalReport.XXX`, where `XXX` is the file extension.
 
 A satisfactory report will meet the same criterion as the presentation except for the last. Instead, the report should be clearly written with proper English spelling and grammar.
 
-The report will be evaluated according to the following 100 point rubric: Does the abstract clearly describe the main findings of the study [10 pts]? Does the introduction clearly describe the rationale for the study [15 pts]? Are methods described in sufficient detail so that the study is reproducible [15 pts]? Are the results, including figures and tables, clearly presented and described [15 pts]? Does the discussion clearly explain the implications of the results in light of previous scientific knowledge [10 pts]? Are conclusions justified by the the data [10 pts]? Are references properly cited [10 pts]? Are project data stored in a well-organized format [15 pts]?
-
--->
+A report that enables the team to earn an A or B will describe a clear contribution to science. To enable the team to earn an A, the presentation must have the polish of a journal article. Journal articles are well-organized and written logically with citations for every claim that is not common knowledge. Figures and table should clearly convey information that is discussed in the text. All conclusions should be clearly supported by the data. Submitted manuscripts that do not meet these requirements are likely to be rejected or require major revision. If I deem the article acceptable as is or with only minor revisions, then the team will have the opportunity to earn an A.
 
 ## Individual contribution summary and project portfolio
 
