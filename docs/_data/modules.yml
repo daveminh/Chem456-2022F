@@ -115,13 +115,16 @@
 
 - day: W
   date: 10/26
-  title: Molecular simulation.
-  description: "Markov chain Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats"
-  basename: 10-26-molecular_simulation
+  title: Monte Carlo.
+  description: "Monte Carlo Integration. Markov chain Monte Carlo"
+  basename: 10-26-monte_carlo
   quiz: "Potential energy"
 
 - day: M
   date: 10/31
+  title: Molecular simulation.
+  description: "Metropolis Monte Carlo. Molecular dynamics. Constrained dynamics. Integrators, thermostats, and barostats"
+  basename: 10-31-molecular_simulation
   exercise: "8: Performing a molecular simulation with OpenMM"
   notebook: 08-openmm
   due: "Exercise 7"
