@@ -132,7 +132,7 @@
 - day: W
   date: 11/2
   title: Analysis of molecular simulation.
-  exercise: "9: mdanalysis"
+  exercise: "9: Analysis of molecular dynamics"
   notebook: 09-mdanalysis
   description: "Equilibration. Alignment and visualization of trajectories. Root mean square properties. Estimating expectation values. Dimensionality reduction."
 
@@ -146,6 +146,8 @@
 - day: W
   date: 11/9
   title: "Binding free energy calculations."
+  exercise: "10: Umbrella sampling"
+  notebook: 10-umbrella
   basename: 11-09-binding_free_energy_calculations
   description: "Alchemical methods. Thermodynamic cycles."
   due: "Exercise 9"
@@ -160,6 +162,7 @@
   title: "Quantitative structure-property relationships."
   description: "Structural features. Common properties. Machine learning methods."
   quiz: "Molecular simulations"
+  due: "Exercise 10"
 
 - day: M
   date: 11/21
