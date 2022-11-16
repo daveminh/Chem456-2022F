@@ -148,8 +148,8 @@
   title: "Binding free energy calculations."
   exercise: "10: Umbrella sampling"
   notebook: 10-umbrella
-  basename: 11-09-binding_free_energy_calculations
   description: "Alchemical methods. Thermodynamic cycles."
+  basename: 11-09-binding_free_energy_calculations
   due: "Exercise 9"
 
 - day: M
@@ -163,6 +163,7 @@
   date: 11/16
   title: "Quantitative structure-property relationships."
   description: "Structural features. Common properties. Machine learning methods."
+  basename: 11-16-qspr
   quiz: "Molecular simulations"
   due: "Exercise 10"
 
