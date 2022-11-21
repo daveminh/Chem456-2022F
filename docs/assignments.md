@@ -92,7 +92,7 @@ A presentation that enables the team to earn an A or B will describe a clear con
 
 ## Innovation Day
 
-TBA
+For specifications of Innovation Day poster presentations, see the lecture slides from 11/16.
 
 ## Report
 
