@@ -170,7 +170,7 @@
 - day: M
   date: 11/21
   exercise: "12: Machine learning"
-  notebook_TODO: 12-machine_learning
+  notebook: 12-qspr
   due: "Exercise 11"
 
 - day: W
